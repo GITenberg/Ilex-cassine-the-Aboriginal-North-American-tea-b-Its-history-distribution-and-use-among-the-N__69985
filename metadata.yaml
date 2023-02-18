@@ -1,0 +1,28 @@
+_repo: Ilex-cassine-the-Aboriginal-North-American-tea-b-Its-history-distribution-and-use-among-the-N__69985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hale, E. M.
+    gutenberg_agent_id: '55528'
+    url: http://www.gutenberg.org/2009/agents/55528
+description: ''
+gutenberg_issued: '2023-02-08'
+identifiers:
+  gutenberg: '69985'
+language: en
+pgterms:marc904: https://archive.org/details/ilexcassineabori14hale/page/n7/mode/2up
+pgterms:marc905: 20201105152113halemd
+pgterms:marc906: '1891'
+pgterms:marc907: US
+production_note: Charlene Taylor, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aUnited States :$bGovernment Printing Office, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ilex cassine, the Aboriginal North American tea : $b Its history, distribution,
+  and use among the Native American Indians'
+url: http://www.gutenberg.org/ebooks/69985
